@@ -21,7 +21,7 @@ environment:
   # Github token to commit pushed packages to repository
   github_user_repo: palethorper/chocolatey-packages
   github_api_key:
-    secure: TwwoN8sTdmZU6u6Bi4zu5mnlL3a+K+8WrHvltjak7lzdHgVAUEnD1qbFJl6Eai2j
+    secure: d6Ls+tC9Y3hX8MH6kGFpd45OMRiK99bGFd7goZj0rr6XfG//9FNd+IXcTcNoG4yq
  #https://ci.appveyor.com/tools/encrypt
 
 
