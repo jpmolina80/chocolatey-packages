@@ -3,8 +3,8 @@
 $packageName= 'winlogbeat'
 
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://artifacts.elastic.co/downloads/beats/winlogbeat/winlogbeat-7.15.1-windows-x86.zip'
-$url64      = 'https://artifacts.elastic.co/downloads/beats/winlogbeat/winlogbeat-7.15.1-windows-x86_64.zip'
+$url        = 'https://artifacts.elastic.co/downloads/beats/winlogbeat/winlogbeat-8.13.2-windows-x86.zip'
+$url64      = 'https://artifacts.elastic.co/downloads/beats/winlogbeat/winlogbeat-8.13.2-windows-x86_64.zip'
 
 $installationPath = $toolsDir
 
